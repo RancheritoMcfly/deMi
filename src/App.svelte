@@ -1,8 +1,7 @@
 <script lang="ts">
   import foto from './assets/miFotillo.jpg'
   import Footer from './Footer.svelte';
-    import SobreMi from './SobreMi.svelte';
-  import sobreMi from './SobreMi.svelte'
+  import SobreMi from './SobreMi.svelte';
 </script>
 
 <header class="p-3 text-bg-dark">
