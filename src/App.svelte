@@ -1,10 +1,17 @@
 <script lang="ts">
-  import foto from './assets/miFotillo.jpg'
+  import foto from './assets/logo_principal_jpg.jpg'
   import Footer from './Footer.svelte';
   import SobreMi from './SobreMi.svelte';
 </script>
 
-<header class="p-3 text-bg-dark">
+<style>
+  .navegator{
+    background: rgb(23,22,30);
+    background: linear-gradient(45deg, rgba(23,22,30,1) 0%, rgba(65,64,94,1) 100%);
+  }
+</style>
+
+<header class="navegator">
   <div class="container">
     <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
       <a href="/" class="d-flex align-items-center mb-2 mb-lg-0 text-white text-decoration-none">
@@ -16,14 +23,8 @@
         <li><a href="#" class="nav-link px-2 text-white">Mi Portafolio</a></li>
       </ul>
 
-      <form class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
-        <input type="search" class="form-control form-control-dark text-bg-dark" placeholder="Search..." aria-label="Search">
-      </form>
+      
 
-      <div class="text-end">
-        <button type="button" class="btn btn-outline-light me-2">Login</button>
-        <button type="button" class="btn btn-warning">Sign-up</button>
-      </div>
     </div>
   </div>
 </header>
