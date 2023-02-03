@@ -5,8 +5,9 @@
 <section class="container my-3 text-center">
     <div class="row align-items-center">
         <div class="col">
-            <h1 class="text-light">[Saludo] 🛰</h1>
-            <p class="lead text-light">"Saludo de presentación"</p>
+            <h1 class="text-light">Hola, hola... soy McFly</h1>
+            <h3>🦊🔥🤼‍♀️🌠🗂</h3>
+            <p class="lead text-light">"Ser capaz de hacer tu mayor esfuerzo, es un talento por si mismo."</p>
             <div class="container">
                 <a target="_blank" rel="noreferrer" href="https://www.facebook.com/RancheritoMcFly/">
                     <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#f7bb2a" class="bi bi-facebook mx-2" viewBox="0 0 16 16">
