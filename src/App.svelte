@@ -2,6 +2,8 @@
   import foto from './assets/logo_principal_jpg.jpg'
   import Footer from './Footer.svelte';
   import SobreMi from './SobreMi.svelte';
+  import MiStack from './miStack.svelte';
+  import MiTrivia from './miTrivia.svelte';
 </script>
 
 <style>
@@ -30,5 +32,9 @@
 </header>
 
 <SobreMi></SobreMi>
+
+<MiStack></MiStack>
+
+<MiTrivia></MiTrivia>
 
 <Footer></Footer>
