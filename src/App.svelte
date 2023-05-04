@@ -25,8 +25,6 @@
         <li><a href="#" class="nav-link px-2 text-white">Mi Portafolio</a></li>
       </ul>
 
-      
-
     </div>
   </div>
 </header>

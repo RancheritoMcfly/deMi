@@ -36,7 +36,7 @@
         </div>
     </div>
     <div class="col">
-        <img class="img-fluid rounded-circle" width="230" height="230"  src="{foto}" alt="">
+        <img class="img-fluid rounded-circle" width="230" height="230"  src="{foto}" alt="foto_de_perfil">
     </div>
 </div>
 </section>
